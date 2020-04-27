@@ -62,7 +62,7 @@ data:
   lggmrisegmentation:
     dataLocation:
       dataset:
-        id: c7e23b60-04c8-46dc-96c5-d9f741f6234b
+        id: 3b37067c-7a75-4eab-ba61-5adb5e207e82
       datapath:
     createOutputDirectories: false
     mechanism: mount
